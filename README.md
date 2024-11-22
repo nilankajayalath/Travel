@@ -10,4 +10,4 @@
 
 🌟Fully Responsive Layout: Ensuring a flawless experience across all devices, whether on desktop, tablet, or mobile, so users can plan their adventures anytime, anywhere.🌟
 
-#Travel hashtag#Website hashtag#PHP hashtag#MYSQL hashtag#JavaScript hashtag#HTML
+#Travel   #Website  #PHP  #MYSQL   #JavaScript #HTML
